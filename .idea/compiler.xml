@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="design_patterns (3)" />
+        <module name="design_patterns (2)" />
+        <module name="design_patterns (5)" />
+        <module name="design_patterns (4)" />
+        <module name="design_patterns (1)" />
+        <module name="itheima_spring" />
+        <module name="design_patterns" />
+        <module name="spring-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="design_patterns" target="1.5" />
+      <module name="design_patterns (1)" target="1.5" />
+      <module name="design_patterns (2)" target="1.5" />
+      <module name="design_patterns (3)" target="1.5" />
+      <module name="design_patterns (4)" target="1.5" />
+      <module name="design_patterns (5)" target="1.5" />
+      <module name="itheima_spring" target="1.5" />
+      <module name="spring-demo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

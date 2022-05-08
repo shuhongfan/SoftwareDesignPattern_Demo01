@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoftwareDesignPattern_Demo01.iml" filepath="$PROJECT_DIR$/.idea/SoftwareDesignPattern_Demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java设计模式资料day01/代码/design_patterns/design_patterns.iml" filepath="$PROJECT_DIR$/Java设计模式资料day01/代码/design_patterns/design_patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java设计模式资料day02/代码/design_patterns/design_patterns (1).iml" filepath="$PROJECT_DIR$/Java设计模式资料day02/代码/design_patterns/design_patterns (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java设计模式资料day03/代码/design_patterns/design_patterns (2).iml" filepath="$PROJECT_DIR$/Java设计模式资料day03/代码/design_patterns/design_patterns (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java设计模式资料day04/代码/design_patterns/design_patterns (3).iml" filepath="$PROJECT_DIR$/Java设计模式资料day04/代码/design_patterns/design_patterns (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java设计模式资料day05/代码/design_patterns/design_patterns (4).iml" filepath="$PROJECT_DIR$/Java设计模式资料day05/代码/design_patterns/design_patterns (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java设计模式资料day06/代码/design_patterns/design_patterns (5).iml" filepath="$PROJECT_DIR$/Java设计模式资料day06/代码/design_patterns/design_patterns (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java设计模式资料day06/代码/itheima_spring/itheima_spring.iml" filepath="$PROJECT_DIR$/Java设计模式资料day06/代码/itheima_spring/itheima_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java设计模式资料day06/代码/spring_demo/spring-demo.iml" filepath="$PROJECT_DIR$/Java设计模式资料day06/代码/spring_demo/spring-demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Java设计模式资料day01/代码/design_patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/Java设计模式资料day02/代码/design_patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/Java设计模式资料day03/代码/design_patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/Java设计模式资料day04/代码/design_patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/Java设计模式资料day05/代码/design_patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/Java设计模式资料day06/代码/spring_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Java设计模式资料day06/代码/itheima_spring/pom.xml" />
+        <option value="$PROJECT_DIR$/Java设计模式资料day06/代码/design_patterns/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
